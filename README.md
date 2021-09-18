@@ -39,5 +39,6 @@ Page Heading. The page heading that says Our Menu should be centered within the 
 (Hint: look for a Bootstrap class that centers text, see http://getbootstrap.com/css/#type-alignment.)
 
 Create a single really tall section that will use the Bootstrap Grid and take up the entire width of the browser window (minus some margins, of course) for all views: desktop, tablet, and mobile. To make the section really tall, you can either fill it out with a LOT of text or simply set its height to something like 1000px. It needs to be tall enough to cause scrolling down to be required to view the bottom of the section. Make sure its background color is set to distinguish it from the rest of the content. (Hint: don't forget to have an element with a class='container' or class='container-fluid' wrapping your grid. Remember that to have the grid do something "always", i.e., no matter what browser window size, use the col-xs-... classes. In this case, since we want the section to take up the entire row, use col-xs-12.)
-![output](https://user-images.githubusercontent.com/90902792/133895657-9b712226-cfb1-49cb-8104-a79f0a5146c0.png)
+
+![output1](https://user-images.githubusercontent.com/90902792/133895845-bfce88c7-fa6b-4cf1-9669-8b5ef9a6fb74.png)
 
